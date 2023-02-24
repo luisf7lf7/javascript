@@ -8,8 +8,8 @@ function hey(){
     console.log("Hola");
 }
 
-saludo();
+// saludo();
 
-var saludo = function(){
-    console.log("Hola Mundo");
-}
+// var saludo = function(){
+//     console.log("Hola Mundo");
+// }
